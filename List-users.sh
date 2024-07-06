@@ -1,5 +1,12 @@
 #!/bin/bash
-
+####################
+# Author: Yogesh
+# Date : 30th June
+#
+# Version: v1
+#
+# This script will display the list of collaborators with read access
+# ####################
 # GitHub API URL
 API_URL="https://api.github.com"
 
